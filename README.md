@@ -1,3 +1,5 @@
+执行 node sh 文件  hs.execute("sh ./test.sh", true) 一定要加后面的 true
+
 # Hammerspoon config
 
 - Make my mac stronger.
